@@ -1,0 +1,8 @@
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\bin\Debug\GoogleAnalyticsXamarin.dll
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\bin\Debug\GoogleAnalyticsXamarin.pdb
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\obj\Debug\GoogleAnalyticsXamarin.dll
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\obj\Debug\GoogleAnalyticsXamarin.pdb
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\obj\Debug\GoogleAnalyticsXamarin.dll.mdb
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\bin\Debug\GoogleAnalyticsXamarin.dll.mdb
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\obj\Debug\GoogleAnalyticsXamarin.dll.mdb
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin\bin\Debug\GoogleAnalyticsXamarin.dll.mdb

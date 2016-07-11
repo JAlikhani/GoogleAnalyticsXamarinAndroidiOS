@@ -1,0 +1,1 @@
+C:\Users\jalalalikhani\Documents\Visual Studio 2015\GoogleAnalyticsXamarin\GoogleAnalyticsXamarin.Shared\GoogleAnalyticsXamarin.Shared.Droid\obj\Debug\GoogleAnalyticsXamarin.Shared.Droid.csprojResolveAssemblyReference.cache
